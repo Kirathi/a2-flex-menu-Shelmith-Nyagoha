@@ -1,6 +1,6 @@
 /*@TODO (6) : Specify what each selector and property-value pair does and means*/
 
-html {/*Selects all items in the html tag*/
+ html {/*Selects all items in the html tag*/
   box-sizing: border-box;/*Inserts a border around all the items inside the html tag */
   display: flex;/*Makes all items inside the html tag fit inside the flex-container*/
   flex-wrap: wrap;/*Makes all items inside the html tag to be put into mutiple lines*/
