@@ -1,4 +1,3 @@
-/*@TODO (6) : Specify what each selector and property-value pair does and means*/
 
  html {/*Selects all items in the html tag*/
   box-sizing: border-box;/*Inserts a border around all the items inside the html tag */
